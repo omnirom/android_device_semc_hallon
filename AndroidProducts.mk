@@ -13,4 +13,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_hallon.mk
+    $(LOCAL_DIR)/omni_hallon.mk
